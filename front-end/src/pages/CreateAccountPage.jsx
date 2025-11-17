@@ -1,0 +1,5 @@
+export default function CreateAccountPage() {
+  return (
+    <h1>This is the Create Account Page!</h1>
+  );
+}
